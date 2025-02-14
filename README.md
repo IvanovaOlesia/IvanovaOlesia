@@ -8,5 +8,9 @@
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,postgres,spring,git,gitlab,gradle,maven,idea,&perline=8)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,postgres,spring,git,gitlab,gradle,maven,idea,&perline=8" />
+  </a>
+</p>
 
