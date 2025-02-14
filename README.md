@@ -13,4 +13,3 @@
     <img src="https://skillicons.dev/icons?i=java,postgres,spring,git,gitlab,gradle,maven,idea,&perline=8" />
   </a>
 </p>
-
